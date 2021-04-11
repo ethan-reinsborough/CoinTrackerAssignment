@@ -2,7 +2,7 @@
 
 ## Crypto Currency Tracker
 
-For theis assignment you will write an app that tracks Crypto Currencies. You will implemnet the MVVM architecure we have been studying with a repositry and both persistent (Room/SQLite) storage and netwrok data (retrofit REST API). 
+For this assignment you will write an app that tracks Crypto Currencies. You will implemnet the MVVM architecure we have been studying with a repositry and both persistent (Room/SQLite) storage and netwrok data (retrofit REST API). 
 
 The starter code has most of the parts already implemented. The Network, Database, and Domain objecst are already defined for you. The starter code uses Refrofit and Moshi to consume JSON from the REST API and produces a list of Kotlin objects. 
 
